@@ -57,7 +57,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## License
 
-This crate is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This crate is licensed under the MIT License OR Apache 2.0 License. Feel free to choose one of them.
 
 ## Acknowledgements
 
