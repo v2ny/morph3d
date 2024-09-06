@@ -19,7 +19,7 @@ Add `morph3d` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-morph3d = "0.1"  # Replace with the latest version
+morph3d = "0.1.1"  # Replace with the latest version
 ```
 
 Or use 
