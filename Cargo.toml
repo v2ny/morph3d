@@ -2,7 +2,7 @@
 name = "morph3d"
 version = "0.1.0"
 edition = "2021"
-license = "MIT Or Apache 2.0"
+license = "MIT OR Apache-2.0"
 description = "Yet another assimp alternative (obj, gltf & glb is supported). DAE, Stl and Usdz support is comming soon."
 
 repository = "https://github.com/v2ny/morph3d"
